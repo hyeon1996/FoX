@@ -1,0 +1,5 @@
+from .FOX_QMIX import FOX_QMIX
+
+REGISTRY = {}
+
+REGISTRY["FOX_QMIX"] = FOX_QMIX
