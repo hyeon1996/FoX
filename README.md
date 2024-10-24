@@ -1,8 +1,6 @@
-This repository considers the implementation of the paper
-
 # FoX: Formation-aware exploration in multi-agent reinforcement learning
 
-Which has been accepted to AAAI 2024, and is available in (https://ojs.aaai.org/index.php/AAAI/article/view/29196)
+This repository considers the implementation of the paper "FoX: Formation-aware exploration in multi-agent reinforcement learning" which has been accepted to AAAI 2024, and is available at (https://ojs.aaai.org/index.php/AAAI/article/view/29196)
 
 
 ## Running an experiment 
